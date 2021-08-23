@@ -2,6 +2,8 @@
 # django
 manage.py
 secrets.json
+token.txt
+gitcmd.sh
 
 __pycache__/
 *.py[cod]
