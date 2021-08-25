@@ -1,0 +1,11 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+certifi==2021.5.30
+dj-database-url==0.5.0
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+gunicorn @ file:///tmp/build/80754af9/gunicorn_1617118195166/work
+mysqlclient @ file:///tmp/build/80754af9/mysqlclient_1609786120714/work
+psycopg2 @ file:///tmp/build/80754af9/psycopg2_1612298595717/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1624965014186/work
+whitenoise @ file:///home/conda/feedstock_root/build_artifacts/whitenoise_1626463713199/work
